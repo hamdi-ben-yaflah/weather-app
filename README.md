@@ -2,6 +2,8 @@
 
 This is a weather application built with Next.js using [openweathermap](https://openweathermap.org/forecast5) API.
 
+[Live Demo](https://weather-app-sable-five-29.vercel.app/)
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
