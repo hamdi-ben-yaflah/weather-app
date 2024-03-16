@@ -1,0 +1,19 @@
+.box {
+  border: 1px solid grey;
+  margin-bottom: 24px;
+  padding: 16px;
+  box-shadow: 2px 2px 2px grey;
+  border-radius: 8px;
+}
+
+.typography {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.innerBox {
+  gap: 3rem;
+  display: flex;
+  overflow-x: auto;
+  flex-wrap: nowrap;
+}
